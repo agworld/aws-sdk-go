@@ -71,3 +71,4 @@ func TestCredentialsGetWithProviderName(t *testing.T) {
 	assert.Nil(t, err, "Expected no error")
 	assert.Equal(t, creds.ProviderName, "stubProvider", "Expected provider name to match")
 }
+//Added a line for testing

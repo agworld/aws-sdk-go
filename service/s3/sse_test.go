@@ -77,3 +77,4 @@ func TestComputeSSEKeysShortcircuit(t *testing.T) {
 	assert.Equal(t, "MD5", req.HTTPRequest.Header.Get("x-amz-server-side-encryption-customer-key-md5"))
 	assert.Equal(t, "MD5", req.HTTPRequest.Header.Get("x-amz-copy-source-server-side-encryption-customer-key-md5"))
 }
+//Added a line for testing

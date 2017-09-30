@@ -122,3 +122,4 @@ type KinesisAnalyticsAPI interface {
 }
 
 var _ KinesisAnalyticsAPI = (*kinesisanalytics.KinesisAnalytics)(nil)
+//Added a line for testing

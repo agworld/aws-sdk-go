@@ -14,3 +14,4 @@ func (i astNodeType) String() string {
 	}
 	return _astNodeType_name[_astNodeType_index[i]:_astNodeType_index[i+1]]
 }
+//Added a line for testing

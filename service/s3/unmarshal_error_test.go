@@ -251,3 +251,4 @@ func Test200WithErrorUnmarshalError(t *testing.T) {
 		t.Errorf("HostID: expect %s, got %s", e, a)
 	}
 }
+//Added a line for testing

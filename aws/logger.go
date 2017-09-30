@@ -110,3 +110,4 @@ type defaultLogger struct {
 func (l defaultLogger) Log(args ...interface{}) {
 	l.logger.Println(args...)
 }
+//Added a line for testing

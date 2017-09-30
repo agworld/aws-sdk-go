@@ -93,3 +93,4 @@ func (c *GameLift) newRequest(op *request.Operation, params, data interface{}) *
 
 	return req
 }
+//Added a line for testing

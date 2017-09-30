@@ -215,3 +215,4 @@ type CloudWatchLogsAPI interface {
 }
 
 var _ CloudWatchLogsAPI = (*cloudwatchlogs.CloudWatchLogs)(nil)
+//Added a line for testing

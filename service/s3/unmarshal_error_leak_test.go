@@ -31,3 +31,4 @@ func TestUnmarhsalErrorLeak(t *testing.T) {
 	assert.Equal(t, reader.Closed, true)
 	assert.Equal(t, reader.Size, 0)
 }
+//Added a line for testing

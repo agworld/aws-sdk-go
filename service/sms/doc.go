@@ -27,3 +27,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/sms/#New
 package sms
+//Added a line for testing

@@ -579,3 +579,4 @@ func shouldRetryCancel(r *Request) bool {
 			errStr != "net/http: request canceled while waiting for connection")
 
 }
+//Added a line for testing

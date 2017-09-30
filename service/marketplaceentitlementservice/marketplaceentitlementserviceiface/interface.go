@@ -66,3 +66,4 @@ type MarketplaceEntitlementServiceAPI interface {
 }
 
 var _ MarketplaceEntitlementServiceAPI = (*marketplaceentitlementservice.MarketplaceEntitlementService)(nil)
+//Added a line for testing

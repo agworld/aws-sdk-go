@@ -93,3 +93,4 @@ func (c *SSM) newRequest(op *request.Operation, params, data interface{}) *reque
 
 	return req
 }
+//Added a line for testing

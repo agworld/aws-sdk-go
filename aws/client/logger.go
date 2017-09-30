@@ -106,3 +106,4 @@ func logResponse(r *request.Request) {
 		Name: handlerName, Fn: handlerFn,
 	})
 }
+//Added a line for testing

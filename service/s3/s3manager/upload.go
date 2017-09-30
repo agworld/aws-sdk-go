@@ -788,3 +788,4 @@ func (u *multiuploader) complete() *s3.CompleteMultipartUploadOutput {
 
 	return resp
 }
+//Added a line for testing

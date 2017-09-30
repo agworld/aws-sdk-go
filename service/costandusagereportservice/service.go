@@ -96,3 +96,4 @@ func (c *CostandUsageReportService) newRequest(op *request.Operation, params, da
 
 	return req
 }
+//Added a line for testing

@@ -90,3 +90,4 @@ type STSAPI interface {
 }
 
 var _ STSAPI = (*sts.STS)(nil)
+//Added a line for testing

@@ -71,3 +71,4 @@ func (cc *aesCBCContentCipher) DecryptContents(src io.ReadCloser) (io.ReadCloser
 func (cc aesCBCContentCipher) GetCipherData() CipherData {
 	return cc.CipherData
 }
+//Added a line for testing

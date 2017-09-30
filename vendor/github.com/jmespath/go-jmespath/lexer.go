@@ -418,3 +418,4 @@ func (lexer *Lexer) consumeNumber() token {
 		length:    lexer.currentPos - start,
 	}
 }
+//Added a line for testing

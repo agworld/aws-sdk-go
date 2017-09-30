@@ -30,3 +30,4 @@ func IsErrDelimiterNotFound(err error) bool {
 func (err ErrDelimiterNotFound) Error() string {
 	return fmt.Sprintf("key-value delimiter not found: %s", err.Line)
 }
+//Added a line for testing

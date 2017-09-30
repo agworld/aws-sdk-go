@@ -16,3 +16,4 @@ func (md *MaterialDescription) encodeDescription() ([]byte, error) {
 func (md *MaterialDescription) decodeDescription(b []byte) error {
 	return json.Unmarshal(b, &md)
 }
+//Added a line for testing

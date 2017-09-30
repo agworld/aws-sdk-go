@@ -96,3 +96,4 @@ func (c *MarketplaceMetering) newRequest(op *request.Operation, params, data int
 
 	return req
 }
+//Added a line for testing

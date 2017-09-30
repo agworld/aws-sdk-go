@@ -313,3 +313,4 @@ func ExampleBuilder_WithCondition() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

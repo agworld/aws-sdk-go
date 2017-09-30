@@ -65,3 +65,4 @@ func fillPresignedURL(r *request.Request) {
 	// We have our URL, set it on params
 	origParams.PresignedUrl = &url
 }
+//Added a line for testing

@@ -244,3 +244,4 @@ func (c *Credentials) IsExpired() bool {
 func (c *Credentials) isExpired() bool {
 	return c.forceRefresh || c.provider.IsExpired()
 }
+//Added a line for testing

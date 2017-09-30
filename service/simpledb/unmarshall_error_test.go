@@ -151,3 +151,4 @@ func createXMLResponse(requestID string, errors []struct{ code, message string }
 	buf.WriteString(`</RequestID></Response>`)
 	return buf.Bytes()
 }
+//Added a line for testing

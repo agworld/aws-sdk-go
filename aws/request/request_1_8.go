@@ -31,3 +31,4 @@ func (r *Request) ResetBody() {
 	r.HTTPRequest.Body = body
 	r.HTTPRequest.GetBody = r.getNextRequestBody
 }
+//Added a line for testing

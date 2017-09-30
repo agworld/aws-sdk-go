@@ -14,3 +14,4 @@ func init() {
 		gucumber.World["client"] = elasticbeanstalk.New(smoke.Session)
 	})
 }
+//Added a line for testing

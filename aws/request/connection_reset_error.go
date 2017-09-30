@@ -17,3 +17,4 @@ func isErrConnectionReset(err error) bool {
 
 	return false
 }
+//Added a line for testing

@@ -103,3 +103,4 @@ func (reader *gcmDecryptReader) Read(data []byte) (int, error) {
 
 	return reader.buf.Read(data)
 }
+//Added a line for testing

@@ -34,3 +34,4 @@ func contentMD5(r *request.Request) {
 	base64.StdEncoding.Encode(sum64, sum)
 	r.HTTPRequest.Header.Set("Content-MD5", string(sum64))
 }
+//Added a line for testing

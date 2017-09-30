@@ -152,3 +152,4 @@ func TestChainProviderWithNoValidProviderWithVerboseEnabled(t *testing.T) {
 		err,
 		"Expect no providers error returned")
 }
+//Added a line for testing

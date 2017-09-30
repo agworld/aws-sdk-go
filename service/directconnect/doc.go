@@ -37,3 +37,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/directconnect/#New
 package directconnect
+//Added a line for testing

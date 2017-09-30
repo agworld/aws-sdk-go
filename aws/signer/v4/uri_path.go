@@ -22,3 +22,4 @@ func getURIPath(u *url.URL) string {
 
 	return uri
 }
+//Added a line for testing

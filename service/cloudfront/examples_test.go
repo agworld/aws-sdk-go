@@ -1080,3 +1080,4 @@ func ExampleCloudFront_UpdateStreamingDistribution_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

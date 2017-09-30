@@ -238,3 +238,4 @@ type WAFAPI interface {
 }
 
 var _ WAFAPI = (*waf.WAF)(nil)
+//Added a line for testing

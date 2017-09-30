@@ -27,3 +27,4 @@ func main() {
 		fmt.Printf("%s\t%s\n", a.Metadata.ServiceFullName, a.Metadata.APIVersion)
 	}
 }
+//Added a line for testing

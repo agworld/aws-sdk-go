@@ -243,3 +243,4 @@ func TestSendMessageBatchChecksumInvalid(t *testing.T) {
 		t.Errorf("expect %v to be in %v, was not", e, a)
 	}
 }
+//Added a line for testing

@@ -240,3 +240,4 @@ var ValidateEndpointHandler = request.NamedHandler{Name: "core.ValidateEndpointH
 		r.Error = aws.ErrMissingEndpoint
 	}
 }}
+//Added a line for testing

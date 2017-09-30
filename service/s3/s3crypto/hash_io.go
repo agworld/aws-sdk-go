@@ -59,3 +59,4 @@ func (w *md5Reader) GetValue() []byte {
 func (w *md5Reader) GetContentLength() int64 {
 	return w.contentLength
 }
+//Added a line for testing

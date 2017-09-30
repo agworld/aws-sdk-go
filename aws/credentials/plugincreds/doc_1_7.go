@@ -3,3 +3,4 @@
 // Package plugincreds provides usage of Go plugins for providing credentials
 // to the SDK. Only available with Go 1.8 and above.
 package plugincreds
+//Added a line for testing

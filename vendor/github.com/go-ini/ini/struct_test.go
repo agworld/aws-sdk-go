@@ -335,3 +335,4 @@ func Test_NameGetter(t *testing.T) {
 		So(tg.PackageName, ShouldEqual, "ini")
 	})
 }
+//Added a line for testing

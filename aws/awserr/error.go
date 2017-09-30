@@ -143,3 +143,4 @@ type RequestFailure interface {
 func NewRequestFailure(err Error, statusCode int, reqID string) RequestFailure {
 	return newRequestError(err, statusCode, reqID)
 }
+//Added a line for testing

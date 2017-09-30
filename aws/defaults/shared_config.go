@@ -25,3 +25,4 @@ func SharedCredentialsFilename() string {
 func SharedConfigFilename() string {
 	return shareddefaults.SharedConfigFilename()
 }
+//Added a line for testing

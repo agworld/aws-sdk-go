@@ -318,3 +318,4 @@ type GameLiftAPI interface {
 }
 
 var _ GameLiftAPI = (*gamelift.GameLift)(nil)
+//Added a line for testing

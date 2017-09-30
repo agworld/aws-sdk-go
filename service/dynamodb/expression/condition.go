@@ -1575,3 +1575,4 @@ func (cb ConditionBuilder) buildChildNodes() ([]exprNode, error) {
 
 	return childNodes, nil
 }
+//Added a line for testing

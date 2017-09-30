@@ -148,3 +148,4 @@ func (p *SharedCredentialsProvider) profile() string {
 
 	return p.Profile
 }
+//Added a line for testing

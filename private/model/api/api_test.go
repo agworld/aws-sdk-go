@@ -52,3 +52,4 @@ func TestStructNameForExceptions(t *testing.T) {
 		t.Errorf("API struct name should have been %s, but received %s", "ConfigService", a.StructName())
 	}
 }
+//Added a line for testing

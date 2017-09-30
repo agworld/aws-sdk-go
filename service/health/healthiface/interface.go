@@ -98,3 +98,4 @@ type HealthAPI interface {
 }
 
 var _ HealthAPI = (*health.Health)(nil)
+//Added a line for testing

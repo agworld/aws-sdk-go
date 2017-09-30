@@ -38,3 +38,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/lightsail/#New
 package lightsail
+//Added a line for testing

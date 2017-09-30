@@ -14215,3 +14215,4 @@ const (
 	// VPCRegionCnNorth1 is a VPCRegion enum value
 	VPCRegionCnNorth1 = "cn-north-1"
 )
+//Added a line for testing

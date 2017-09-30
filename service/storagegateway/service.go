@@ -93,3 +93,4 @@ func (c *StorageGateway) newRequest(op *request.Operation, params, data interfac
 
 	return req
 }
+//Added a line for testing

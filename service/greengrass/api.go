@@ -11572,3 +11572,4 @@ const (
 	// LoggerTypeAwscloudWatch is a LoggerType enum value
 	LoggerTypeAwscloudWatch = "AWSCloudWatch"
 )
+//Added a line for testing

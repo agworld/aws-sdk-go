@@ -14,3 +14,4 @@ func init() {
 		gucumber.World["client"] = cloudwatchlogs.New(smoke.Session)
 	})
 }
+//Added a line for testing

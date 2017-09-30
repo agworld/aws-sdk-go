@@ -94,3 +94,4 @@ func (r *lockedSource) Seed(seed int64) {
 	r.src.Seed(seed)
 	r.lk.Unlock()
 }
+//Added a line for testing

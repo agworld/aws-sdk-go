@@ -1619,3 +1619,4 @@ func (c *EC2) WaitUntilVpnConnectionDeletedWithContext(ctx aws.Context, input *D
 
 	return w.WaitWithContext(ctx)
 }
+//Added a line for testing

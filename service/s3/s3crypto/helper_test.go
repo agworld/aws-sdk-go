@@ -45,3 +45,4 @@ func TestBytesReadWriteSeeker_Seek(t *testing.T) {
 	assert.Equal(t, 2, n)
 	assert.Equal(t, expected, buf[:n])
 }
+//Added a line for testing

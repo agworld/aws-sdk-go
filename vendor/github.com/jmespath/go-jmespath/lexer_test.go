@@ -159,3 +159,4 @@ func runLexBenchmark(b *testing.B, expression string) {
 		lexer.tokenize(expression)
 	}
 }
+//Added a line for testing

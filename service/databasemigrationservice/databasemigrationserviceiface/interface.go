@@ -258,3 +258,4 @@ type DatabaseMigrationServiceAPI interface {
 }
 
 var _ DatabaseMigrationServiceAPI = (*databasemigrationservice.DatabaseMigrationService)(nil)
+//Added a line for testing

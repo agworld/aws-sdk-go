@@ -124,3 +124,4 @@ type RekognitionAPI interface {
 }
 
 var _ RekognitionAPI = (*rekognition.Rekognition)(nil)
+//Added a line for testing

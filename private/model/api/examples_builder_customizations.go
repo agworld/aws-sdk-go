@@ -26,3 +26,4 @@ func (builder wafregionalExamplesBuilder) Imports(a *API) string {
 	buf.WriteString(fmt.Sprintf("\"%s/%s\"", "github.com/aws/aws-sdk-go/service", a.PackageName()))
 	return buf.String()
 }
+//Added a line for testing

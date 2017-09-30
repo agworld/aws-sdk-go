@@ -62,3 +62,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/resourcegroupstaggingapi/#New
 package resourcegroupstaggingapi
+//Added a line for testing

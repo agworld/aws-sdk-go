@@ -38,3 +38,4 @@ func TestSharedConfigFilename(t *testing.T) {
 		t.Errorf("expect %q shared config filename, got %q", e, a)
 	}
 }
+//Added a line for testing

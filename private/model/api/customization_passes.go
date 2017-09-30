@@ -178,3 +178,4 @@ func rdsCustomizations(a *API) {
 func disableEndpointResolving(a *API) {
 	a.Metadata.NoResolveEndpoint = true
 }
+//Added a line for testing

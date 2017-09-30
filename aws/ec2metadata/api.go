@@ -160,3 +160,4 @@ type EC2InstanceIdentityDocument struct {
 	RamdiskID          string    `json:"ramdiskId"`
 	Architecture       string    `json:"architecture"`
 }
+//Added a line for testing

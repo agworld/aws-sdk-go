@@ -10507,3 +10507,4 @@ const (
 	// ResourceTypePeeredVpc is a ResourceType enum value
 	ResourceTypePeeredVpc = "PeeredVpc"
 )
+//Added a line for testing

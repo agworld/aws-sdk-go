@@ -156,3 +156,4 @@ func (c *ELB) WaitUntilInstanceInServiceWithContext(ctx aws.Context, input *Desc
 
 	return w.WaitWithContext(ctx)
 }
+//Added a line for testing

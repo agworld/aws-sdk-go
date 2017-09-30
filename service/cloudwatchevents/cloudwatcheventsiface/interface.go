@@ -122,3 +122,4 @@ type CloudWatchEventsAPI interface {
 }
 
 var _ CloudWatchEventsAPI = (*cloudwatchevents.CloudWatchEvents)(nil)
+//Added a line for testing

@@ -144,3 +144,4 @@ func (c *EncryptionClient) PutObjectWithContext(ctx aws.Context, input *s3.PutOb
 	req.ApplyOptions(opts...)
 	return out, req.Send()
 }
+//Added a line for testing

@@ -88,3 +88,4 @@ func TestLoadEncryptedPEMPrivKeyWrongPassword(t *testing.T) {
 		t.Errorf("Expected nil privKey but got %#v", privKey)
 	}
 }
+//Added a line for testing

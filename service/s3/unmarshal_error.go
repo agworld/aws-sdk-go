@@ -101,3 +101,4 @@ func (r requestFailure) String() string {
 func (r requestFailure) HostID() string {
 	return r.hostID
 }
+//Added a line for testing

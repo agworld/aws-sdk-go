@@ -618,3 +618,4 @@ func (svb SetValueBuilder) BuildOperand() (Operand, error) {
 		exprNode: node,
 	}, nil
 }
+//Added a line for testing

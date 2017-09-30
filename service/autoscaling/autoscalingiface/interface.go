@@ -303,3 +303,4 @@ type AutoScalingAPI interface {
 }
 
 var _ AutoScalingAPI = (*autoscaling.AutoScaling)(nil)
+//Added a line for testing

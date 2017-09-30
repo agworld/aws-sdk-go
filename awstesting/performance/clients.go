@@ -135,3 +135,4 @@ var clients = []reflect.Value{
 	reflect.ValueOf(waf.New),
 	reflect.ValueOf(workspaces.New),
 }
+//Added a line for testing

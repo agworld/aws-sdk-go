@@ -1057,3 +1057,4 @@ type closure struct {
 }
 
 func (c closure) Import(to string) (*types.Package, error) { return c.imp.doImport(c.info, to) }
+//Added a line for testing

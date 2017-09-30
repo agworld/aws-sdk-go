@@ -130,3 +130,4 @@ type CognitoSyncAPI interface {
 }
 
 var _ CognitoSyncAPI = (*cognitosync.CognitoSync)(nil)
+//Added a line for testing

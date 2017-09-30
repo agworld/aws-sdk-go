@@ -385,3 +385,4 @@ type S3API interface {
 }
 
 var _ S3API = (*s3.S3)(nil)
+//Added a line for testing

@@ -371,3 +371,4 @@ type RedshiftAPI interface {
 }
 
 var _ RedshiftAPI = (*redshift.Redshift)(nil)
+//Added a line for testing

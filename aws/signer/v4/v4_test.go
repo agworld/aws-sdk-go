@@ -642,3 +642,4 @@ func BenchmarkStripExcessSpaces(b *testing.B) {
 		stripExcessSpaces(cases)
 	}
 }
+//Added a line for testing

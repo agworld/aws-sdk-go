@@ -12717,3 +12717,4 @@ const (
 	// WafRuleTypeRateBased is a WafRuleType enum value
 	WafRuleTypeRateBased = "RATE_BASED"
 )
+//Added a line for testing

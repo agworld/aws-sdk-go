@@ -278,3 +278,4 @@ type PinpointAPI interface {
 }
 
 var _ PinpointAPI = (*pinpoint.Pinpoint)(nil)
+//Added a line for testing

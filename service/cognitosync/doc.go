@@ -43,3 +43,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/cognitosync/#New
 package cognitosync
+//Added a line for testing

@@ -59,3 +59,4 @@ func (p *provider) Retrieve() (key, secret, token string, err error) {
 func (p *provider) IsExpired() bool {
 	return !p.loaded
 }
+//Added a line for testing

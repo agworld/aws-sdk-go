@@ -165,3 +165,4 @@ func SplitPathList(ctxt *build.Context, s string) []string {
 	}
 	return filepath.SplitList(s)
 }
+//Added a line for testing

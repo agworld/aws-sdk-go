@@ -52,3 +52,4 @@ func addChecksum(r *request.Request) {
 func addAPIVersion(r *request.Request) {
 	r.HTTPRequest.Header.Set("X-Amz-Glacier-Version", r.ClientInfo.APIVersion)
 }
+//Added a line for testing

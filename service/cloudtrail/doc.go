@@ -46,3 +46,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/cloudtrail/#New
 package cloudtrail
+//Added a line for testing

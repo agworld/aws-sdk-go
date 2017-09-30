@@ -2214,3 +2214,4 @@ func (s *ValueWithServiceIds) SetServiceIds(v []*ServiceId) *ValueWithServiceIds
 	s.ServiceIds = v
 	return s
 }
+//Added a line for testing

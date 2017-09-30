@@ -254,3 +254,4 @@ type LightsailAPI interface {
 }
 
 var _ LightsailAPI = (*lightsail.Lightsail)(nil)
+//Added a line for testing

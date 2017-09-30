@@ -66,3 +66,4 @@ func loadPem(reader io.Reader) (*pem.Block, error) {
 
 	return block, nil
 }
+//Added a line for testing

@@ -158,3 +158,4 @@ type KinesisAPI interface {
 }
 
 var _ KinesisAPI = (*kinesis.Kinesis)(nil)
+//Added a line for testing

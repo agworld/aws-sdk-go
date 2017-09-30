@@ -71,3 +71,4 @@ func aesgcmTest(t *testing.T, iv, key, plaintext, expected, tag []byte) {
 	assert.Equal(t, len(text), len(plaintext))
 	assert.Equal(t, text, plaintext)
 }
+//Added a line for testing

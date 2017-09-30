@@ -405,3 +405,4 @@ func ExampleApplicationAutoScaling_RegisterScalableTarget_shared01() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

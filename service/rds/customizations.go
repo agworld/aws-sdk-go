@@ -123,3 +123,4 @@ func presignURL(r *request.Request, sourceRegion *string, newParams interface{})
 	// We have our URL, set it on params
 	return &uri
 }
+//Added a line for testing

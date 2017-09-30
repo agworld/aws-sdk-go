@@ -37,3 +37,4 @@ func (r *Request) ResetBody() {
 
 	r.HTTPRequest.Body = body
 }
+//Added a line for testing

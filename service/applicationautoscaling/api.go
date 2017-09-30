@@ -3212,3 +3212,4 @@ const (
 	// ServiceNamespaceDynamodb is a ServiceNamespace enum value
 	ServiceNamespaceDynamodb = "dynamodb"
 )
+//Added a line for testing

@@ -157,3 +157,4 @@ func ExampleDynamoDBStreams_ListStreams_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

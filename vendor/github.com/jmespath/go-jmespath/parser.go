@@ -601,3 +601,4 @@ func (p *Parser) syntaxErrorToken(msg string, t token) SyntaxError {
 		Offset:     t.position,
 	}
 }
+//Added a line for testing

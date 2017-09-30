@@ -229,3 +229,4 @@ type ElasticBeanstalkAPI interface {
 }
 
 var _ ElasticBeanstalkAPI = (*elasticbeanstalk.ElasticBeanstalk)(nil)
+//Added a line for testing

@@ -116,3 +116,4 @@ func (b *WriteAtBuffer) Bytes() []byte {
 	defer b.m.Unlock()
 	return b.buf
 }
+//Added a line for testing

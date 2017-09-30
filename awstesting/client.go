@@ -22,3 +22,4 @@ func NewClient(cfgs ...*aws.Config) *client.Client {
 
 	return client.New(*def.Config, info, def.Handlers)
 }
+//Added a line for testing

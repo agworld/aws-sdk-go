@@ -107,3 +107,4 @@ func validateCRC32(r *request.Request) {
 		r.Error = awserr.New("CRC32CheckFailed", "CRC32 integrity check failed", nil)
 	}
 }
+//Added a line for testing

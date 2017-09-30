@@ -12,3 +12,4 @@ func (a *API) ExportableName(name string) string {
 
 	return strings.ToUpper(name[0:1]) + name[1:]
 }
+//Added a line for testing

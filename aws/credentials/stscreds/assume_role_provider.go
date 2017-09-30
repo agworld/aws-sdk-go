@@ -296,3 +296,4 @@ func (p *AssumeRoleProvider) Retrieve() (credentials.Value, error) {
 		ProviderName:    ProviderName,
 	}, nil
 }
+//Added a line for testing

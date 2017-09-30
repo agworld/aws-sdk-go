@@ -30,3 +30,4 @@ func TestResolvedReferences(t *testing.T) {
 		t.Errorf("Expected %d, but received %d", 2, len(a.Shapes["OtherTest"].refs))
 	}
 }
+//Added a line for testing

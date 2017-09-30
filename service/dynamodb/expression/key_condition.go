@@ -555,3 +555,4 @@ func (kcb KeyConditionBuilder) buildChildNodes() ([]exprNode, error) {
 
 	return childNodes, nil
 }
+//Added a line for testing

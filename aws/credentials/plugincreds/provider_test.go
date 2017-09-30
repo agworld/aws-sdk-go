@@ -69,3 +69,4 @@ func TestProvider_Error(t *testing.T) {
 		t.Errorf("expect %+v credentials, got %+v", expect, actual)
 	}
 }
+//Added a line for testing

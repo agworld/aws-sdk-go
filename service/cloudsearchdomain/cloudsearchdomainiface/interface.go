@@ -74,3 +74,4 @@ type CloudSearchDomainAPI interface {
 }
 
 var _ CloudSearchDomainAPI = (*cloudsearchdomain.CloudSearchDomain)(nil)
+//Added a line for testing

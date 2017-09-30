@@ -134,3 +134,4 @@ type CodeStarAPI interface {
 }
 
 var _ CodeStarAPI = (*codestar.CodeStar)(nil)
+//Added a line for testing

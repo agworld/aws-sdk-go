@@ -65,3 +65,4 @@ func TestStandaloneSign_RawPath(t *testing.T) {
 		assert.Equal(t, c.EscapedURI, req.URL.EscapedPath())
 	}
 }
+//Added a line for testing

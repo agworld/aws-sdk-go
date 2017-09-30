@@ -71,3 +71,4 @@ func TestObjsEqual(t *testing.T) {
 	assert.True(objsEqual([]int{}, []int{}))
 	assert.True(!objsEqual([]int{}, nil))
 }
+//Added a line for testing

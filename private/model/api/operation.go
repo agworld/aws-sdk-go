@@ -490,3 +490,4 @@ func (e *example) traverseScalar(s *Shape, required, payload bool) string {
 
 	return str
 }
+//Added a line for testing

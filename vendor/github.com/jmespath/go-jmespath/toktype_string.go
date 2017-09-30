@@ -14,3 +14,4 @@ func (i tokType) String() string {
 	}
 	return _tokType_name[_tokType_index[i]:_tokType_index[i+1]]
 }
+//Added a line for testing

@@ -24,3 +24,4 @@ type UploaderAPI interface {
 }
 
 var _ UploaderAPI = (*s3manager.Uploader)(nil)
+//Added a line for testing

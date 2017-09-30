@@ -68,3 +68,4 @@ func TestEnvProviderAlternateNames(t *testing.T) {
 	assert.Equal(t, "secret", creds.SecretAccessKey, "Expected secret access key")
 	assert.Empty(t, creds.SessionToken, "Expected no token")
 }
+//Added a line for testing

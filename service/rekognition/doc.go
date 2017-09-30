@@ -24,3 +24,4 @@
 // information on creating client for this service.
 // https://docs.aws.amazon.com/sdk-for-go/api/service/rekognition/#New
 package rekognition
+//Added a line for testing

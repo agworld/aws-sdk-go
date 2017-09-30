@@ -294,3 +294,4 @@ func (b *xmlBuilder) buildScalar(value reflect.Value, current *XMLNode, tag refl
 	}
 	return nil
 }
+//Added a line for testing

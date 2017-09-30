@@ -682,3 +682,4 @@ func (s *Shape) WillRefBeBase64Encoded(refName string) bool {
 
 	return ref.Shape.Type == "blob"
 }
+//Added a line for testing

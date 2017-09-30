@@ -86,3 +86,4 @@ func (c *Config) Load() error {
 
 	return nil
 }
+//Added a line for testing

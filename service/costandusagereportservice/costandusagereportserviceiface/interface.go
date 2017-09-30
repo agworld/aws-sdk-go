@@ -77,3 +77,4 @@ type CostandUsageReportServiceAPI interface {
 }
 
 var _ CostandUsageReportServiceAPI = (*costandusagereportservice.CostandUsageReportService)(nil)
+//Added a line for testing

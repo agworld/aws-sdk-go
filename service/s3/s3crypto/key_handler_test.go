@@ -14,3 +14,4 @@ func TestGenerateBytes(t *testing.T) {
 	b = generateBytes(1024)
 	assert.Equal(t, 1024, len(b))
 }
+//Added a line for testing

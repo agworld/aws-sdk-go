@@ -2356,3 +2356,4 @@ func (s *GetSessionTokenOutput) SetCredentials(v *Credentials) *GetSessionTokenO
 	s.Credentials = v
 	return s
 }
+//Added a line for testing

@@ -22,3 +22,4 @@ func restGETPresignStrategy(r *request.Request) error {
 	r.HTTPRequest.Method = "GET"
 	return nil
 }
+//Added a line for testing

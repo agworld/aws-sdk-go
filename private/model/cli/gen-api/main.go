@@ -301,3 +301,4 @@ func writeAPIErrorsFile(g *generateInfo) error {
 		g.API.APIErrorsGoCode(),
 	)
 }
+//Added a line for testing

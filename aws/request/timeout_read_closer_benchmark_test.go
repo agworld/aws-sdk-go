@@ -74,3 +74,4 @@ func BenchmarkTimeoutReadCloser(b *testing.B) {
 		}
 	}
 }
+//Added a line for testing

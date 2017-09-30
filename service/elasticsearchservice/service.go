@@ -91,3 +91,4 @@ func (c *ElasticsearchService) newRequest(op *request.Operation, params, data in
 
 	return req
 }
+//Added a line for testing

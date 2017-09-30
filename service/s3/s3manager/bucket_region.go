@@ -81,3 +81,4 @@ func GetBucketRegionWithClient(ctx aws.Context, svc s3iface.S3API, bucket string
 
 	return bucketRegion, nil
 }
+//Added a line for testing
