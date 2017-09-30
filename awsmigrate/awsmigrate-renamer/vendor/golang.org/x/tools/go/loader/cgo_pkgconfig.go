@@ -37,3 +37,4 @@ func pkgConfigFlags(p *build.Package) (cflags []string, err error) {
 	}
 	return pkgConfig("--cflags", p.CgoPkgConfig)
 }
+//Added a line for testing

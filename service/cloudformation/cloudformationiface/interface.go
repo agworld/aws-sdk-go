@@ -255,3 +255,4 @@ type CloudFormationAPI interface {
 }
 
 var _ CloudFormationAPI = (*cloudformation.CloudFormation)(nil)
+//Added a line for testing

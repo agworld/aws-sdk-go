@@ -2320,3 +2320,4 @@ func (s *UpdateCondition) SetValue(v string) *UpdateCondition {
 	s.Value = &v
 	return s
 }
+//Added a line for testing

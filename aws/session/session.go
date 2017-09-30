@@ -604,3 +604,4 @@ func (s *Session) ClientConfigNoResolveEndpoint(cfgs ...*aws.Config) client.Conf
 		SigningName:   resolved.SigningName,
 	}
 }
+//Added a line for testing

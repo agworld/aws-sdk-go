@@ -280,3 +280,4 @@ func ExampleSTS_GetSessionToken_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

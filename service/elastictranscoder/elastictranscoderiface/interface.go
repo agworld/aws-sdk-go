@@ -145,3 +145,4 @@ type ElasticTranscoderAPI interface {
 }
 
 var _ ElasticTranscoderAPI = (*elastictranscoder.ElasticTranscoder)(nil)
+//Added a line for testing

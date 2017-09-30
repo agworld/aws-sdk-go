@@ -316,3 +316,4 @@ func parseTimeString(ref *ShapeRef, memName, v string) string {
 func (ex *Example) MethodName() string {
 	return fmt.Sprintf("%s_%s", ex.OperationName, ex.Index)
 }
+//Added a line for testing

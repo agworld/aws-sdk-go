@@ -545,3 +545,4 @@ func (c *dlchunk) ByteRange() string {
 
 	return fmt.Sprintf("bytes=%d-%d", c.start, c.start+c.size-1)
 }
+//Added a line for testing

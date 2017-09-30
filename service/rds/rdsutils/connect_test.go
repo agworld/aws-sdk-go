@@ -40,3 +40,4 @@ func TestBuildAuthToken(t *testing.T) {
 		}
 	}
 }
+//Added a line for testing

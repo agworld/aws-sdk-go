@@ -266,3 +266,4 @@ type ElastiCacheAPI interface {
 }
 
 var _ ElastiCacheAPI = (*elasticache.ElastiCache)(nil)
+//Added a line for testing

@@ -27,3 +27,4 @@ func init() {
 			WithEndpoint(*result.EndpointAddress))
 	})
 }
+//Added a line for testing

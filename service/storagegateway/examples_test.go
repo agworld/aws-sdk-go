@@ -1857,3 +1857,4 @@ func ExampleStorageGateway_UpdateVTLDeviceType_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

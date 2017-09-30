@@ -75,3 +75,4 @@ func ComputeTreeHash(hashes [][]byte) []byte {
 
 	return hashes[0]
 }
+//Added a line for testing

@@ -27,3 +27,4 @@ func TestDeepEqual(t *testing.T) {
 		assert.Equal(t, c.equal, awsutil.DeepEqual(c.a, c.b), "%d, a:%v b:%v, %t", i, c.a, c.b, c.equal)
 	}
 }
+//Added a line for testing

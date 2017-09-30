@@ -293,3 +293,4 @@ func (e SharedConfigAssumeRoleError) OrigErr() error {
 func (e SharedConfigAssumeRoleError) Error() string {
 	return awserr.SprintError(e.Code(), e.Message(), "", nil)
 }
+//Added a line for testing

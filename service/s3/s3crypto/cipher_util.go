@@ -109,3 +109,4 @@ func encodeMeta(reader hashReader, cd CipherData) (Envelope, error) {
 		UnencryptedContentLen: strconv.FormatInt(contentLength, 10),
 	}, nil
 }
+//Added a line for testing

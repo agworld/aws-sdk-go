@@ -1935,3 +1935,4 @@ func ExampleAutoScaling_UpdateAutoScalingGroup_shared02() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

@@ -43,3 +43,4 @@ func NewMockClient(cfgs ...*aws.Config) *client.Client {
 
 	return svc
 }
+//Added a line for testing

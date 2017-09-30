@@ -145,3 +145,4 @@ func StructToXML(e *xml.Encoder, node *XMLNode, sorted bool) error {
 	e.EncodeToken(xml.EndElement{Name: node.Name})
 	return e.Flush()
 }
+//Added a line for testing

@@ -68,3 +68,4 @@ func (cipher *mockContentCipher) DecryptContents(src io.ReadCloser) (io.ReadClos
 	size := len(b)
 	return ioutil.NopCloser(bytes.NewReader(make([]byte, size))), nil
 }
+//Added a line for testing

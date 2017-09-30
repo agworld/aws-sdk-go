@@ -14,3 +14,4 @@ func init() {
 		gucumber.World["client"] = sqs.New(smoke.Session)
 	})
 }
+//Added a line for testing

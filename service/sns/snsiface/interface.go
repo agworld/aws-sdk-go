@@ -197,3 +197,4 @@ type SNSAPI interface {
 }
 
 var _ SNSAPI = (*sns.SNS)(nil)
+//Added a line for testing

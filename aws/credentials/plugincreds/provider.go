@@ -209,3 +209,4 @@ func GetPluginProviderFnsByName(p *plugin.Plugin, symbolName string) (func() (ke
 
 	return retrieveFn, isExpiredFn, nil
 }
+//Added a line for testing

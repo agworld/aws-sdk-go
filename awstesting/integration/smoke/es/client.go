@@ -14,3 +14,4 @@ func init() {
 		gucumber.World["client"] = elasticsearchservice.New(smoke.Session)
 	})
 }
+//Added a line for testing

@@ -153,3 +153,4 @@ func moveBucketToHost(u *url.URL, bucket string) {
 		u.Path = "/"
 	}
 }
+//Added a line for testing

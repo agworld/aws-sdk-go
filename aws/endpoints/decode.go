@@ -131,3 +131,4 @@ func newDecodeModelError(msg string, err error) decodeModelError {
 		awsError: awserr.New("DecodeEndpointsModelError", msg, err),
 	}
 }
+//Added a line for testing

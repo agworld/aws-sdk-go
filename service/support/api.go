@@ -3570,3 +3570,4 @@ func (s *TrustedAdvisorResourcesSummary) SetResourcesSuppressed(v int64) *Truste
 	s.ResourcesSuppressed = &v
 	return s
 }
+//Added a line for testing

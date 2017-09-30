@@ -93,3 +93,4 @@ func (c *ResourceGroupsTaggingAPI) newRequest(op *request.Operation, params, dat
 
 	return req
 }
+//Added a line for testing

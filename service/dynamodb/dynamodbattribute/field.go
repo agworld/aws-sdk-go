@@ -267,3 +267,4 @@ func (x fieldsByIndex) Less(i, j int) bool {
 	}
 	return len(x[i].Index) < len(x[j].Index)
 }
+//Added a line for testing

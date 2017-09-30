@@ -120,3 +120,4 @@ func (out stdout) output(data record) error {
 	fmt.Println(item)
 	return nil
 }
+//Added a line for testing

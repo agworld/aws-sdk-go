@@ -341,3 +341,4 @@ func ExampleECR_ListImages_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

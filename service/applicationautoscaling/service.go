@@ -96,3 +96,4 @@ func (c *ApplicationAutoScaling) newRequest(op *request.Operation, params, data 
 
 	return req
 }
+//Added a line for testing

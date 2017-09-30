@@ -328,3 +328,4 @@ type StorageGatewayAPI interface {
 }
 
 var _ StorageGatewayAPI = (*storagegateway.StorageGateway)(nil)
+//Added a line for testing

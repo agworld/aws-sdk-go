@@ -352,3 +352,4 @@ func (s *Session) SetStopTimestamp(v string) *Session {
 	s.StopTimestamp = &v
 	return s
 }
+//Added a line for testing

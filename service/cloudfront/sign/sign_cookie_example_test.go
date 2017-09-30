@@ -161,3 +161,4 @@ func printExampleCookies(cookies []*http.Cookie) {
 		fmt.Printf("%s: %s, %s, %s, %t\n", c.Name, c.Value, c.Path, c.Domain, c.Secure)
 	}
 }
+//Added a line for testing

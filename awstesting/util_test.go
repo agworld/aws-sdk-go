@@ -73,3 +73,4 @@ func TestReadCloserReadAll(t *testing.T) {
 		t.Errorf("expect %v, got %v", e, a)
 	}
 }
+//Added a line for testing

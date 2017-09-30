@@ -232,3 +232,4 @@ func NewErrParamMinLen(field string, min int) *ErrParamMinLen {
 func (e *ErrParamMinLen) MinLen() int {
 	return e.min
 }
+//Added a line for testing

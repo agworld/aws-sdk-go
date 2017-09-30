@@ -66,3 +66,4 @@ func (cc *aesGCMContentCipher) DecryptContents(src io.ReadCloser) (io.ReadCloser
 func (cc aesGCMContentCipher) GetCipherData() CipherData {
 	return cc.CipherData
 }
+//Added a line for testing

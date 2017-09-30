@@ -159,3 +159,4 @@ func (r *Request) IsErrorThrottle() bool {
 func (r *Request) IsErrorExpired() bool {
 	return IsErrorExpiredCreds(r.Error)
 }
+//Added a line for testing

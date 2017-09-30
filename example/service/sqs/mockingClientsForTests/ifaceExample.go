@@ -77,3 +77,4 @@ func (q *Queue) GetMessages(waitTimeout int64) ([]Message, error) {
 
 	return msgs, nil
 }
+//Added a line for testing

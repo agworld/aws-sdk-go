@@ -64,3 +64,4 @@
 //         EndpointResolver: endpoints.ResolverFunc(myCustomResolver),
 //     }))
 package endpoints
+//Added a line for testing

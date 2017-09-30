@@ -15,3 +15,4 @@ var (
 	// @readonly
 	ErrMissingEndpoint = awserr.New("MissingEndpoint", "'Endpoint' configuration is required for this service", nil)
 )
+//Added a line for testing

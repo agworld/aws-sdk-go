@@ -78,3 +78,4 @@ type DynamoDBStreamsAPI interface {
 }
 
 var _ DynamoDBStreamsAPI = (*dynamodbstreams.DynamoDBStreams)(nil)
+//Added a line for testing

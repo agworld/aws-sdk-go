@@ -110,3 +110,4 @@ func (c *IAM) WaitUntilUserExistsWithContext(ctx aws.Context, input *GetUserInpu
 
 	return w.WaitWithContext(ctx)
 }
+//Added a line for testing

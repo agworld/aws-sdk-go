@@ -304,3 +304,4 @@ func (a *API) setMetadataEndpointsKey() {
 		a.Metadata.EndpointsID = a.Metadata.EndpointPrefix
 	}
 }
+//Added a line for testing

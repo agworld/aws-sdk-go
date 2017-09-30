@@ -201,3 +201,4 @@ func TestXML(t *testing.T) {
 func TestProtocol(t *testing.T) {
 	checkForLeak(nil, restxml.Build, protocol.UnmarshalDiscardBody, t, expected{xmlType, true, 0, false})
 }
+//Added a line for testing

@@ -54,3 +54,4 @@ func (c *SES) WaitUntilIdentityExistsWithContext(ctx aws.Context, input *GetIden
 
 	return w.WaitWithContext(ctx)
 }
+//Added a line for testing

@@ -7,3 +7,4 @@ import (
 )
 
 var stubConnectionResetError = errors.New("connection reset")
+//Added a line for testing

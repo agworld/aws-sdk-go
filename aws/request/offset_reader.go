@@ -56,3 +56,4 @@ func (o *offsetReader) CloseAndCopy(offset int64) *offsetReader {
 	o.Close()
 	return newOffsetReader(o.buf, offset)
 }
+//Added a line for testing

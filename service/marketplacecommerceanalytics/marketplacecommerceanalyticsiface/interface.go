@@ -70,3 +70,4 @@ type MarketplaceCommerceAnalyticsAPI interface {
 }
 
 var _ MarketplaceCommerceAnalyticsAPI = (*marketplacecommerceanalytics.MarketplaceCommerceAnalytics)(nil)
+//Added a line for testing

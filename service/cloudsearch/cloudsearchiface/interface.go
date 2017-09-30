@@ -158,3 +158,4 @@ type CloudSearchAPI interface {
 }
 
 var _ CloudSearchAPI = (*cloudsearch.CloudSearch)(nil)
+//Added a line for testing

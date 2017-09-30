@@ -33,3 +33,4 @@ func TestBuildCorrectURI(t *testing.T) {
 		t.Errorf("expect query to be %q, got %q", e, a)
 	}
 }
+//Added a line for testing

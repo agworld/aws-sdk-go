@@ -30,3 +30,4 @@ func TestInvalidMustCompilePanics(t *testing.T) {
 	}()
 	MustCompile("not a valid expression")
 }
+//Added a line for testing

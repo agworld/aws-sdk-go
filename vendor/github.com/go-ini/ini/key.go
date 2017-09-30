@@ -701,3 +701,4 @@ func (k *Key) SetValue(v string) {
 	k.value = v
 	k.s.keysHash[k.name] = v
 }
+//Added a line for testing

@@ -93,3 +93,4 @@ func (c *CognitoIdentity) newRequest(op *request.Operation, params, data interfa
 
 	return req
 }
+//Added a line for testing

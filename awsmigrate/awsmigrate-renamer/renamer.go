@@ -43,3 +43,4 @@ func main() {
 
 	rename.ParsePathsFromArgs()
 }
+//Added a line for testing

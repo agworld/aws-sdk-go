@@ -62,3 +62,4 @@ const (
 	// might not be specified correctly, or its status might not be ACTIVE.
 	ErrCodeResourceNotFoundException = "ResourceNotFoundException"
 )
+//Added a line for testing

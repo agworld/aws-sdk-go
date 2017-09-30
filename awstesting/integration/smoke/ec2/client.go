@@ -14,3 +14,4 @@ func init() {
 		gucumber.World["client"] = ec2.New(smoke.Session)
 	})
 }
+//Added a line for testing

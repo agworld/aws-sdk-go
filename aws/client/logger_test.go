@@ -55,3 +55,4 @@ func TestLogWriter(t *testing.T) {
 		t.Errorf("Expected %q, but received %q", expected, lw.buf.String())
 	}
 }
+//Added a line for testing

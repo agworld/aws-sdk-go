@@ -134,3 +134,4 @@ func BenchmarkSharedCredentialsProvider(b *testing.B) {
 		}
 	}
 }
+//Added a line for testing

@@ -113,3 +113,4 @@ func setChecksumError(r *request.Request, format string, args ...interface{}) {
 	r.Retryable = aws.Bool(true)
 	r.Error = awserr.New("InvalidChecksum", fmt.Sprintf(format, args...), nil)
 }
+//Added a line for testing

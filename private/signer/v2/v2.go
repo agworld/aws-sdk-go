@@ -178,3 +178,4 @@ func (v2 *signer) logSigningInfo() {
 	msg := fmt.Sprintf(logSignInfoMsg, v2.stringToSign, v2.Query.Get("Signature"))
 	v2.Logger.Log(msg)
 }
+//Added a line for testing

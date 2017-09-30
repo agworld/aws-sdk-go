@@ -25,3 +25,4 @@ func TestGetBucketRegion(t *testing.T) {
 		t.Errorf("expect %s bucket region, got %s", e, a)
 	}
 }
+//Added a line for testing

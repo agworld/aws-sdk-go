@@ -56,3 +56,4 @@ func ExampleCodeBuild_BatchGetBuilds_shared00() {
 
 	fmt.Println(result)
 }
+//Added a line for testing

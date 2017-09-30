@@ -161,3 +161,4 @@ func ec2RoleProvider(cfg aws.Config, handlers request.Handlers) credentials.Prov
 		ExpiryWindow: 5 * time.Minute,
 	}
 }
+//Added a line for testing

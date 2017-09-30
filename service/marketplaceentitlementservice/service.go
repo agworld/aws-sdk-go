@@ -96,3 +96,4 @@ func (c *MarketplaceEntitlementService) newRequest(op *request.Operation, params
 
 	return req
 }
+//Added a line for testing

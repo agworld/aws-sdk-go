@@ -94,3 +94,4 @@ type FirehoseAPI interface {
 }
 
 var _ FirehoseAPI = (*firehose.Firehose)(nil)
+//Added a line for testing

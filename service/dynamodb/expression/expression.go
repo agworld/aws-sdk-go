@@ -633,3 +633,4 @@ func (al *aliasList) aliasPath(nm string) (string, error) {
 	al.namesList = append(al.namesList, nm)
 	return fmt.Sprintf("#%d", len(al.namesList)-1), nil
 }
+//Added a line for testing

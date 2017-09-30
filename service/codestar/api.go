@@ -3679,3 +3679,4 @@ func (s *UserProfileSummary) SetUserArn(v string) *UserProfileSummary {
 	s.UserArn = &v
 	return s
 }
+//Added a line for testing

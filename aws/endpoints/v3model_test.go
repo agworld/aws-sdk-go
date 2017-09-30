@@ -352,3 +352,4 @@ func TestResolveEndpoint_AwsGlobal(t *testing.T) {
 	assert.Equal(t, "us-east-1", resolved.SigningRegion)
 	assert.Equal(t, "globalService", resolved.SigningName)
 }
+//Added a line for testing

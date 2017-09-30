@@ -68,3 +68,4 @@ func (ws *bytesReadWriteSeeker) Seek(offset int64, whence int) (int64, error) {
 	ws.i = abs
 	return abs, nil
 }
+//Added a line for testing

@@ -27,3 +27,4 @@ func stripPort(hostport string) string {
 	}
 	return hostport[:colon]
 }
+//Added a line for testing

@@ -394,3 +394,4 @@ type CognitoIdentityProviderAPI interface {
 }
 
 var _ CognitoIdentityProviderAPI = (*cognitoidentityprovider.CognitoIdentityProvider)(nil)
+//Added a line for testing

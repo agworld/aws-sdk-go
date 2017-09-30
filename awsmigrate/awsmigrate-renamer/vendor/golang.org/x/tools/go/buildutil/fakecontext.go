@@ -106,3 +106,4 @@ func (fakeDirInfo) ModTime() time.Time { return time.Time{} }
 func (fakeDirInfo) IsDir() bool        { return true }
 func (fakeDirInfo) Size() int64        { return 0 }
 func (fakeDirInfo) Mode() os.FileMode  { return 0755 }
+//Added a line for testing

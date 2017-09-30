@@ -687,3 +687,4 @@ func (s *UpdateThingShadowOutput) SetPayload(v []byte) *UpdateThingShadowOutput 
 	s.Payload = v
 	return s
 }
+//Added a line for testing

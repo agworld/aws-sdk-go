@@ -45,3 +45,4 @@ const (
 	// progress.
 	ErrCodeScalingActivityInProgressFault = "ScalingActivityInProgress"
 )
+//Added a line for testing

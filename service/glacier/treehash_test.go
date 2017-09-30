@@ -61,3 +61,4 @@ func ExampleComputeTreeHash() {
 	// Output:
 	// TreeHash: 154e26c78fd74d0c2c9b3cc4644191619dc4f2cd539ae2a74d5fd07957a3ee6a
 }
+//Added a line for testing

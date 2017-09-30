@@ -212,3 +212,4 @@ func (c *S3) WaitUntilObjectNotExistsWithContext(ctx aws.Context, input *HeadObj
 
 	return w.WaitWithContext(ctx)
 }
+//Added a line for testing

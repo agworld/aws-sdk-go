@@ -156,3 +156,4 @@ func TestGetObjectMetadataWithUnicode(t *testing.T) {
 	assert.Equal(t, utf8Value, *resp.Metadata[utf8KeySuffix])
 
 }
+//Added a line for testing

@@ -264,3 +264,4 @@ func BenchmarkHandlersClear(b *testing.B) {
 		h.Clear()
 	}
 }
+//Added a line for testing

@@ -135,3 +135,4 @@ To fetch the stopped and running instance  for  region us-west-1 and eu-west-1 u
 	./filter_ec2_by_region -state running -state stopped -region us-west-1 -region=eu-west-1
 `
 }
+//Added a line for testing

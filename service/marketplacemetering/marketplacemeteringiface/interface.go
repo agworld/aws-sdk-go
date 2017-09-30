@@ -74,3 +74,4 @@ type MarketplaceMeteringAPI interface {
 }
 
 var _ MarketplaceMeteringAPI = (*marketplacemetering.MarketplaceMetering)(nil)
+//Added a line for testing

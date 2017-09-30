@@ -136,3 +136,4 @@ type SnowballAPI interface {
 }
 
 var _ SnowballAPI = (*snowball.Snowball)(nil)
+//Added a line for testing

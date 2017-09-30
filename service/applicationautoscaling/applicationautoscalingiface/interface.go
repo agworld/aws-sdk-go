@@ -99,3 +99,4 @@ type ApplicationAutoScalingAPI interface {
 }
 
 var _ ApplicationAutoScalingAPI = (*applicationautoscaling.ApplicationAutoScaling)(nil)
+//Added a line for testing

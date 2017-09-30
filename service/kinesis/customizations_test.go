@@ -87,3 +87,4 @@ func TestKinesisGetRecordsNoTimeout(t *testing.T) {
 		t.Errorf("Expected no error, but received %v", err)
 	}
 }
+//Added a line for testing

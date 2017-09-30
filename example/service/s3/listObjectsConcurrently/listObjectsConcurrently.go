@@ -234,3 +234,4 @@ func listBucketObjects(svc *s3.S3, bucket string) ([]Object, []ErrObject, error)
 
 	return objs, errObjs, nil
 }
+//Added a line for testing

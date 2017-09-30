@@ -64,3 +64,4 @@ func ExampleResolverFunc() {
 		QueueUrl: aws.String("my-queue-url"),
 	})
 }
+//Added a line for testing

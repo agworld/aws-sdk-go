@@ -225,3 +225,4 @@ type DirectoryServiceAPI interface {
 }
 
 var _ DirectoryServiceAPI = (*directoryservice.DirectoryService)(nil)
+//Added a line for testing

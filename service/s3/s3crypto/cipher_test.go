@@ -32,3 +32,4 @@ func TestCryptoReadCloserClose(t *testing.T) {
 	assert.NoError(t, err)
 	assert.Equal(t, expectedStr, string(b))
 }
+//Added a line for testing

@@ -64,3 +64,4 @@ func main() {
 	fmt.Printf("s3://%s/%s exists. size: %d\n", os.Args[1], os.Args[2],
 		aws.Int64Value(resp.ContentLength))
 }
+//Added a line for testing

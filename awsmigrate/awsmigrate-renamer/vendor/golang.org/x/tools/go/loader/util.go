@@ -122,3 +122,4 @@ func tokenFileContainsPos(f *token.File, pos token.Pos) bool {
 	base := f.Base()
 	return base <= p && p < base+f.Size()
 }
+//Added a line for testing

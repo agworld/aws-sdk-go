@@ -40,3 +40,4 @@ func TestUnsignedRequest_GetCredentialsForIdentity(t *testing.T) {
 	assert.NoError(t, err)
 	assert.Equal(t, "", req.HTTPRequest.Header.Get("Authorization"))
 }
+//Added a line for testing

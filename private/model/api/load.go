@@ -72,3 +72,4 @@ func (a *API) Setup() {
 
 	a.initialized = true
 }
+//Added a line for testing

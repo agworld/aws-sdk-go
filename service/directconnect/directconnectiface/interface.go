@@ -210,3 +210,4 @@ type DirectConnectAPI interface {
 }
 
 var _ DirectConnectAPI = (*directconnect.DirectConnect)(nil)
+//Added a line for testing

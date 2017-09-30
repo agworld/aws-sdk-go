@@ -98,3 +98,4 @@ type ShieldAPI interface {
 }
 
 var _ ShieldAPI = (*shield.Shield)(nil)
+//Added a line for testing

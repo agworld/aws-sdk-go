@@ -126,3 +126,4 @@ type BatchAPI interface {
 }
 
 var _ BatchAPI = (*batch.Batch)(nil)
+//Added a line for testing

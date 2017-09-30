@@ -157,3 +157,4 @@ func BenchmarkEC3RoleProvider(b *testing.B) {
 		}
 	}
 }
+//Added a line for testing

@@ -91,3 +91,4 @@ func (c *S3) newRequest(op *request.Operation, params, data interface{}) *reques
 
 	return req
 }
+//Added a line for testing

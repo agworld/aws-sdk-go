@@ -234,3 +234,4 @@ func (r *Request) EachPage(fn func(data interface{}, isLastPage bool) (shouldCon
 
 	return nil
 }
+//Added a line for testing

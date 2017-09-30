@@ -64,3 +64,4 @@ func TestRequireEndpointUsed(t *testing.T) {
 		t.Errorf("expect no error, got %v", err)
 	}
 }
+//Added a line for testing

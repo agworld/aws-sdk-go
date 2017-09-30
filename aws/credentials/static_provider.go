@@ -55,3 +55,4 @@ func (s *StaticProvider) Retrieve() (Value, error) {
 func (s *StaticProvider) IsExpired() bool {
 	return false
 }
+//Added a line for testing

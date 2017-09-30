@@ -121,3 +121,4 @@ type CloudTrailAPI interface {
 }
 
 var _ CloudTrailAPI = (*cloudtrail.CloudTrail)(nil)
+//Added a line for testing

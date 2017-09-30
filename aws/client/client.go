@@ -88,3 +88,4 @@ func (c *Client) AddDebugHandlers() {
 	c.Handlers.Send.PushFrontNamed(request.NamedHandler{Name: "awssdk.client.LogRequest", Fn: logRequest})
 	c.Handlers.Send.PushBackNamed(request.NamedHandler{Name: "awssdk.client.LogResponse", Fn: logResponse})
 }
+//Added a line for testing

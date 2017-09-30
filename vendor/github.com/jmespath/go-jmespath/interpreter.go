@@ -416,3 +416,4 @@ func (intr *treeInterpreter) projectWithReflection(node ASTNode, value interface
 	}
 	return collected, nil
 }
+//Added a line for testing

@@ -109,3 +109,4 @@ func TestFailedRetrieveCredentials(t *testing.T) {
 	assert.Empty(t, creds.SessionToken)
 	assert.True(t, client.IsExpired())
 }
+//Added a line for testing

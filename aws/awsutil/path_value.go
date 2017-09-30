@@ -220,3 +220,4 @@ func setValue(dstVal reflect.Value, src interface{}) {
 	}
 
 }
+//Added a line for testing

@@ -304,3 +304,4 @@ type ServiceCatalogAPI interface {
 }
 
 var _ ServiceCatalogAPI = (*servicecatalog.ServiceCatalog)(nil)
+//Added a line for testing

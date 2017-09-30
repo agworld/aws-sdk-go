@@ -137,3 +137,4 @@ func BenchmarkBytesReader(b *testing.B) {
 		reader.Read(tempBuf)
 	}
 }
+//Added a line for testing

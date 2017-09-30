@@ -352,3 +352,4 @@ type CloudDirectoryAPI interface {
 }
 
 var _ CloudDirectoryAPI = (*clouddirectory.CloudDirectory)(nil)
+//Added a line for testing

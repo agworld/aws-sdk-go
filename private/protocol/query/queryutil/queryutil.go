@@ -239,3 +239,4 @@ func (q *queryParser) parseScalar(v url.Values, r reflect.Value, name string, ta
 	}
 	return nil
 }
+//Added a line for testing

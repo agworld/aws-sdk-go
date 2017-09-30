@@ -26,3 +26,4 @@ func TestDecodeMaterialDescription(t *testing.T) {
 	assert.NoError(t, err)
 	assert.Equal(t, expected, md)
 }
+//Added a line for testing

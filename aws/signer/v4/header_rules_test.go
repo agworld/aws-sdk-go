@@ -55,3 +55,4 @@ func TestRuleComplexWhitelist(t *testing.T) {
 	assert.False(t, r.IsValid("X-Amz-Meta-Star"))
 	assert.False(t, r.IsValid("Cache-Control"))
 }
+//Added a line for testing

@@ -103,3 +103,4 @@ func TestKMSDecryptBadJSON(t *testing.T) {
 	_, err := (kmsKeyHandler{kms: kms.New(sess)}).decryptHandler(Envelope{MatDesc: `{"kms_cmk_id":"test"`})
 	assert.Error(t, err)
 }
+//Added a line for testing

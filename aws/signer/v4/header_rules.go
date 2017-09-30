@@ -80,3 +80,4 @@ func (r inclusiveRules) IsValid(value string) bool {
 	}
 	return true
 }
+//Added a line for testing

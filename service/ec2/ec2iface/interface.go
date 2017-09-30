@@ -1152,3 +1152,4 @@ type EC2API interface {
 }
 
 var _ EC2API = (*ec2.EC2)(nil)
+//Added a line for testing

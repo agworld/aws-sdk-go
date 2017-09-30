@@ -90,3 +90,4 @@ func TestGetBucketRegionWithClient(t *testing.T) {
 		}
 	}
 }
+//Added a line for testing

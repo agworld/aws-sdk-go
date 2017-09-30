@@ -64,3 +64,4 @@ func UnmarshalError(r *request.Request) {
 	r.Error = awserr.New("SerializationError",
 		"failed to decode query XML error response", decodeErr)
 }
+//Added a line for testing

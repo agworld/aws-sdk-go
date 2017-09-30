@@ -19,3 +19,4 @@ func UnmarshalDiscardBody(r *request.Request) {
 	io.Copy(ioutil.Discard, r.HTTPResponse.Body)
 	r.HTTPResponse.Body.Close()
 }
+//Added a line for testing

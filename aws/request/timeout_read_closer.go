@@ -92,3 +92,4 @@ func WithResponseReadTimeout(duration time.Duration) Option {
 		r.Handlers.UnmarshalError.PushBack(adaptToResponseTimeoutError)
 	}
 }
+//Added a line for testing

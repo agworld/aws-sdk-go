@@ -122,3 +122,4 @@ func validateEndpointHandler(r *request.Request) {
 		r.Error = aws.ErrMissingEndpoint
 	}
 }
+//Added a line for testing

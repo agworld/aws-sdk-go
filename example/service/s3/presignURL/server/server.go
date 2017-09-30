@@ -184,3 +184,4 @@ func exitError(err error) {
 	fmt.Fprintln(os.Stderr, err.Error())
 	os.Exit(1)
 }
+//Added a line for testing

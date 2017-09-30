@@ -39,3 +39,4 @@ func (ig *ItemGetter) Get(id string) (value string) {
 	}
 	return
 }
+//Added a line for testing

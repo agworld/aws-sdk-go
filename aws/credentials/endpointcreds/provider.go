@@ -189,3 +189,4 @@ func unmarshalError(r *request.Request) {
 	// Grab the error message as a string and include that as the source error
 	r.Error = awserr.New(errOut.Code, errOut.Message, nil)
 }
+//Added a line for testing

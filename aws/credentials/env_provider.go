@@ -76,3 +76,4 @@ func (e *EnvProvider) Retrieve() (Value, error) {
 func (e *EnvProvider) IsExpired() bool {
 	return !e.retrieved
 }
+//Added a line for testing

@@ -35,3 +35,4 @@ func TestRequestCancelRetry(t *testing.T) {
 	assert.True(t, strings.Contains(err.Error(), "canceled"))
 	assert.Equal(t, 1, reqNum)
 }
+//Added a line for testing

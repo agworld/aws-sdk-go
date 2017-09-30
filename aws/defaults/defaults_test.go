@@ -86,3 +86,4 @@ func TestDefaultEC2RoleProvider(t *testing.T) {
 		t.Errorf("expect %q endpoint, got %q", e, a)
 	}
 }
+//Added a line for testing

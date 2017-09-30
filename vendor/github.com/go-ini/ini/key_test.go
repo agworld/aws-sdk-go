@@ -571,3 +571,4 @@ func Benchmark_Key_SetValue_VisSection(b *testing.B) {
 		sec.Key("NAME").SetValue("10")
 	}
 }
+//Added a line for testing

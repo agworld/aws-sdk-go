@@ -193,3 +193,4 @@ func ExpandPatterns(ctxt *build.Context, patterns []string) map[string]bool {
 
 	return pkgs
 }
+//Added a line for testing

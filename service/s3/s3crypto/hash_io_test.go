@@ -23,3 +23,4 @@ func TestSHA256_Case2(t *testing.T) {
 	b := sha.GetValue()
 	assert.Equal(t, expected, b)
 }
+//Added a line for testing

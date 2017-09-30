@@ -40,3 +40,4 @@ func sanitizeURL(r *request.Request) {
 	// Take the updated path so the requests's URL Path has parity with RawPath.
 	r.HTTPRequest.URL.Path = updated.Path
 }
+//Added a line for testing

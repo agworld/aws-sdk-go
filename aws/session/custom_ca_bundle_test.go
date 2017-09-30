@@ -241,3 +241,4 @@ func TestNewSession_WithCustomCABundle_TransportSet(t *testing.T) {
 		t.Errorf("expect %d status code, got %d", e, a)
 	}
 }
+//Added a line for testing

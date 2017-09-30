@@ -148,3 +148,4 @@ func BenchmarkAssumeRoleProvider(b *testing.B) {
 		}
 	}
 }
+//Added a line for testing

@@ -115,3 +115,4 @@ func TestDecodeModelOptionsSet(t *testing.T) {
 		t.Errorf("expect %v options got %v", expect, actual)
 	}
 }
+//Added a line for testing

@@ -3618,3 +3618,4 @@ const (
 	// WorkspaceStateError is a WorkspaceState enum value
 	WorkspaceStateError = "ERROR"
 )
+//Added a line for testing

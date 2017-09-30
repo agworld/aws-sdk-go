@@ -104,3 +104,4 @@ func TestUUIDVersion4(t *testing.T) {
 	uuid = protocol.UUIDVersion4(b)
 	assert.Equal(t, `01010101-0101-4101-8101-010101010101`, uuid)
 }
+//Added a line for testing

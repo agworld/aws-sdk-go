@@ -9,3 +9,4 @@ import (
 func isErrConnectionReset(err error) bool {
 	return strings.Contains(err.Error(), "connection reset")
 }
+//Added a line for testing

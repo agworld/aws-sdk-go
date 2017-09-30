@@ -93,3 +93,4 @@ func (c *DirectoryService) newRequest(op *request.Operation, params, data interf
 
 	return req
 }
+//Added a line for testing

@@ -114,3 +114,4 @@ func (r *renamer) parseUses(pkg *loader.PackageInfo) {
 		}
 	}
 }
+//Added a line for testing

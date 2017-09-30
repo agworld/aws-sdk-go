@@ -184,3 +184,4 @@ type AppStreamAPI interface {
 }
 
 var _ AppStreamAPI = (*appstream.AppStream)(nil)
+//Added a line for testing

@@ -293,3 +293,4 @@ func waiterLogf(logger aws.Logger, msg string, args ...interface{}) {
 		logger.Log(fmt.Sprintf(msg, args...))
 	}
 }
+//Added a line for testing

@@ -2654,3 +2654,4 @@ const (
 	// VmManagerTypeVsphere is a VmManagerType enum value
 	VmManagerTypeVsphere = "VSPHERE"
 )
+//Added a line for testing

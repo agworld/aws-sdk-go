@@ -125,3 +125,4 @@ func TestHostStyleBucketGetBucketLocation(t *testing.T) {
 		t.Errorf("expect %s to be in %s", e, a)
 	}
 }
+//Added a line for testing

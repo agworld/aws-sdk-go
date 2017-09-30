@@ -138,3 +138,4 @@ type ApplicationDiscoveryServiceAPI interface {
 }
 
 var _ ApplicationDiscoveryServiceAPI = (*applicationdiscoveryservice.ApplicationDiscoveryService)(nil)
+//Added a line for testing

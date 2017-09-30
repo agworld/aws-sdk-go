@@ -32,3 +32,4 @@ func TestStaticProviderIsExpired(t *testing.T) {
 
 	assert.False(t, s.IsExpired(), "Expect static credentials to never expire")
 }
+//Added a line for testing

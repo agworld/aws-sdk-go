@@ -140,3 +140,4 @@ func TestSetValueAtPathSuccess(t *testing.T) {
 	awsutil.SetValueAtPath(&s4, "Name", &str)
 	assert.Equal(t, str, *s4.Name)
 }
+//Added a line for testing

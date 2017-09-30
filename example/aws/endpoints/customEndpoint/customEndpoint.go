@@ -75,3 +75,4 @@ func main() {
 	})
 	ddbSvcLocal.ListTables(&dynamodb.ListTablesInput{})
 }
+//Added a line for testing

@@ -2307,3 +2307,4 @@ func TestOutputService12ProtocolTestJSONValueTraitCase1(t *testing.T) {
 	}
 	reflect.DeepEqual(out.Attr, map[string]interface{}{"Foo": "Bar"})
 }
+//Added a line for testing
