@@ -52,3 +52,4 @@ QUERY
 {{range .Textual}}{{len .Lines}}	{{srcLink .Filename}}
 {{end}}{{if not .Complete}}...	...
 {{end}}{{end}}
+Added a line for testing

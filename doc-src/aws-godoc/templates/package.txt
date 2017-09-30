@@ -114,3 +114,4 @@ package {{.Name}}
 Make sure there is no newline at the end of this file.
 perl -i -pe 'chomp if eof' package.txt
 */}}
+Added a line for testing
