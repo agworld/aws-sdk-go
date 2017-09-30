@@ -125,3 +125,4 @@ updates, and major SDK changes.
 [cla]: http://en.wikipedia.org/wiki/Contributor_License_Agreement
 [releasenotes]: https://github.com/aws/aws-sdk-go/releases
 
+And also add a line on contributing
