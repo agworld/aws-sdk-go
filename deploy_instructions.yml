@@ -5,4 +5,7 @@
 - third: "Where is bob?"
     Forth: "Bob who?"
 - last: "If this works"
+<<<<<<< HEAD
 - anotherlast: "Maybe this is the last"
+=======
+>>>>>>> feature/hookit
