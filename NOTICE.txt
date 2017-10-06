@@ -7,5 +7,3 @@ Added another line to test Github web hooks
 Yet more added to the file
 Third line added to the file
 
-Added a line for testing
-Added a line for part 2 testing
