@@ -317,3 +317,4 @@ func (ex *Example) MethodName() string {
 	return fmt.Sprintf("%s_%s", ex.OperationName, ex.Index)
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

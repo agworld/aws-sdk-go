@@ -93,3 +93,4 @@ func deleteBucket(svc *s3.S3, bucket string) error {
 	return nil
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

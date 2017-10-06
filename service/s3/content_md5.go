@@ -35,3 +35,4 @@ func contentMD5(r *request.Request) {
 	r.HTTPRequest.Header.Set("Content-MD5", string(sum64))
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

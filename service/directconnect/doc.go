@@ -38,3 +38,4 @@
 // https://docs.aws.amazon.com/sdk-for-go/api/service/directconnect/#New
 package directconnect
 //Added a line for testing
+//Adding another line for Git event testing part 2

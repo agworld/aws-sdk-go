@@ -216,3 +216,4 @@ type CloudWatchLogsAPI interface {
 
 var _ CloudWatchLogsAPI = (*cloudwatchlogs.CloudWatchLogs)(nil)
 //Added a line for testing
+//Adding another line for Git event testing part 2

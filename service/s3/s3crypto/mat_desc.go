@@ -17,3 +17,4 @@ func (md *MaterialDescription) decodeDescription(b []byte) error {
 	return json.Unmarshal(b, &md)
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2
