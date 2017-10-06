@@ -12,3 +12,4 @@ var Session = session.Must(session.NewSession(aws.NewConfig().
 	WithCredentials(credentials.NewStaticCredentials("AKID", "SECRET", "SESSION")).
 	WithRegion("mock-region")))
 //Added a line for testing
+//Adding another line for Git event testing part 2

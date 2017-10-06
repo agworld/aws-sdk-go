@@ -442,3 +442,4 @@ func convertFrom(a *dynamodb.AttributeValue) interface{} {
 	panic(fmt.Sprintf("%#v is not a supported dynamodb.AttributeValue", a))
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

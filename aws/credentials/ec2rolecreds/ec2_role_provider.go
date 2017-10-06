@@ -177,3 +177,4 @@ func requestCred(client *ec2metadata.EC2Metadata, credsName string) (ec2RoleCred
 	return respCreds, nil
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

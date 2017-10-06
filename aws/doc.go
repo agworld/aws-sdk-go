@@ -55,3 +55,4 @@
 // value of the SDK's Config type when creating a Session or service client.
 package aws
 //Added a line for testing
+//Adding another line for Git event testing part 2

@@ -210,3 +210,4 @@ func getAliasInformation(alias, region string) (string, error) {
 	return "", errors.New("The alias " + alias + " does not exist in your account. Please add the proper alias to a key")
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

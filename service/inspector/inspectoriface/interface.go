@@ -219,3 +219,4 @@ type InspectorAPI interface {
 
 var _ InspectorAPI = (*inspector.Inspector)(nil)
 //Added a line for testing
+//Adding another line for Git event testing part 2

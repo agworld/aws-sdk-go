@@ -353,3 +353,4 @@ func TestResolveEndpoint_AwsGlobal(t *testing.T) {
 	assert.Equal(t, "globalService", resolved.SigningName)
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

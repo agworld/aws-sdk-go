@@ -683,3 +683,4 @@ func (s *Shape) WillRefBeBase64Encoded(refName string) bool {
 	return ref.Shape.Type == "blob"
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2

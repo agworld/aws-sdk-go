@@ -15,3 +15,4 @@ func TestGenerateBytes(t *testing.T) {
 	assert.Equal(t, 1024, len(b))
 }
 //Added a line for testing
+//Adding another line for Git event testing part 2
